@@ -1,0 +1,8 @@
+
+.idea/jsLibraryMappings.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/misc.xml
+.idea/mychat.iml
+*.idea
+*.node_modules
